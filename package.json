@@ -1,0 +1,1 @@
+{"description":"TasteBrief — a cross-domain discovery agent powered by the Qloo Taste AI API.","license":"MIT","name":"tastebrief","private":true,"scripts":{"dev":"node scripts/dev.mjs"},"type":"module","version":"1.0.0"}
